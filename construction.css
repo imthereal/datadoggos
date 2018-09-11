@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background-image:url(https://vignette.wikia.nocookie.net/goosebumps/images/d/d2/Construction-cone.png/revision/latest/scale-to-width-down/472?cb=20170801210028);
+background-repeat:repeat;
+font-family:Comic Sans MS, Comic Sans;
+color:black;
+text-align:center;
+}
+
+marquee{
+color:#white;
+}
+
+a:link, a:visited{
+color:#FFFFFF;
+}
+a:hover{
+font-weight:bold;
+}
